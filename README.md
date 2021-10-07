@@ -1,6 +1,6 @@
 # Java Mysql Servlet Blog Web Site Project
 
-## Uygulama Açıklaması
+<img src="https://camo.githubusercontent.com/e273faba7d7a169e392436b52f600b85be5340f7038c28042e893514719b27d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2d6e6f7465626f6f6b2d76352e342e302d653436653265" alt="Tomcat" data-canonical-src="https://img.shields.io/badge/Tomcat-9.0.50-e46e2e" style="max-width: 100%;">
 
 asd
 
@@ -13,9 +13,11 @@ asd
 
 ## Kullanılan Diller ve Yetenekler
 
-| Dil / Yetenek | :arrow_right: | % |
+| Dil / Yetenek | :arrow_right: | Detail |
 | ------------- |:-------------:|:-------------:|
-| Java | :arrow_right: | 100 |
+| Backend | :arrow_right: | Java,Jee,Jpa,Hibernate|
+| Database | :arrow_right: | Mysql |
+| Frontend | :arrow_right: | Jsp,Servlet,Js,jQuery,Ajax |
 
 
 
