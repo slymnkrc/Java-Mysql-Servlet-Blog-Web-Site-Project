@@ -1,6 +1,10 @@
 # Java Mysql Servlet Blog Web Site Project
 
-<img src="https://img.shields.io/badge/Tomcat-9.0.50-e46e2e" alt="Tomcat" data-canonical-src="https://img.shields.io/badge/Tomcat-9.0.50-e46e2e" style="max-width: 100%;">
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2021.1.3-e46e2e" alt="Tomcat" data-canonical-src="https://img.shields.io/badge/IntelliJ%20IDEA-2021.1.3-e46e2e"      style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Tomcat-9.0.50-e46e2e" alt="Tomcat" data-canonical-src="https://img.shields.io/badge/Tomcat-9.0.50-e46e2e" style="max-width: 100%;">
+</p>
+
 
 asd
 
