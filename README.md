@@ -8,8 +8,7 @@ asd
 
 | email/username | password |
 | ------------- |:-------------:|
-| slymnkrc@mail.com  | 123456 |
-| admin@mail.com  | 12345 |
+| admin  | 12345 |
 
 
 ## Kullanılan Diller ve Yetenekler
