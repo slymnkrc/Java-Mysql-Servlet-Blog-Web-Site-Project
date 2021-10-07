@@ -44,6 +44,12 @@ asd
   
 <a href="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project/blob/main/images/7.jpg" target="_blank">
 <img src="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project/blob/main/images/7.jpg" width="200" style="max-width:200%;"></a>
+  
+<a href="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project/blob/main/images/8.jpg" target="_blank">
+<img src="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project/blob/main/images/8.jpg" width="200" style="max-width:200%;"></a>
+  
+<a href="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project/blob/main/images/9.jpg" target="_blank">
+<img src="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project/blob/main/images/9.jpg" width="200" style="max-width:200%;"></a>
 
 
   
