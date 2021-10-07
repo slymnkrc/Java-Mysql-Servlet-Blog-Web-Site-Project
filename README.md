@@ -1,4 +1,4 @@
-# Java Mysql Servlet Blog Web Site Project
+# Java Blog WebSite Project (Mysql, Servlet, Jsp)
 
 <p>
   
@@ -11,7 +11,7 @@
 
 asd
 
-## Kullanıcı Bilgileri
+## User Information
 
 | email/username | password |
 | ------------- |:-------------:|
@@ -20,7 +20,7 @@ asd
 
 ## Kullanılan Diller ve Yetenekler
 
-| Dil / Yetenek | :arrow_right: | Detail |
+| Dil / Yetenek |  | Detail |
 | ------------- |:-------------:|:-------------:|
 | Backend | :arrow_right: | Java,Jee,Jpa,Hibernate|
 | Database | :arrow_right: | Mysql |
