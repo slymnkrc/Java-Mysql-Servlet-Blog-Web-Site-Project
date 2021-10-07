@@ -16,27 +16,34 @@
   </a>
 </p>
 
+## Project Details:
 
-asd
+In this project, a dynamic blog site was designed. To edit the page content, login from the admin panel is required. Admin adds posts, titles and category information. Admin can edit and delete the uploaded content. Extra admin can register to the system. Each admin has exclusive access to edit and use content, meaning one admin cannot access and edit/delete other admin's content. Admin can change the password from the settings tab.
 
-## User Information
+The shares of all admins registered to the system are displayed on the main page. Here the contents are sorted by upload date. The contents on the main page are shown with summary information. If you click on the content, it opens on a separate page with more details.
+
+On the contact page, users can send messages to site administrators.
+
+Below are the ready-made admin information registered to the system. You can login to the application with this username and password.
+
+## User Information:
 
 | email/username | password |
 | ------------- |:-------------:|
 | admin  | 12345 |
 
 
-## Kullanılan Diller ve Yetenekler
+## Tools and Technologies:
 
-| Dil / Yetenek |  | Detail |
+| Tools |  | Detail |
 | ------------- |:-------------:|:-------------:|
-| Backend | :arrow_right: | Java,Jee,Jpa,Hibernate|
+| Backend | :arrow_right: | Java,Hibernate|
 | Database | :arrow_right: | Mysql |
 | Frontend | :arrow_right: | Jsp,Servlet,Js,jQuery,Ajax |
 
 
 
-## Uygulama Görselleri
+## ScreenShots:
 
 <p>
   
