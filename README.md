@@ -1,7 +1,6 @@
 # Java Blog WebSite Project (Mysql, Servlet, Jsp)
 
 <p>
-  
   <a href="https://github.com/slymnkrc/Java-Mysql-Servlet-Blog-Web-Site-Project">
     <img src="https://img.shields.io/badge/Java-v8-3eb049" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-v8-3eb049" style="max-width: 100%;">
   </a>
